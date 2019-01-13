@@ -1,0 +1,681 @@
+{
+  "settings": {
+    "name": "W H I T E O P E N S P A C E",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#ffffff",
+        "successColor": "#000000",
+        "infoColor": "#c1c1c1",
+        "warningColor": "#cccccc",
+        "dangerColor": "#cccccc",
+        "titleFont": "Raleway",
+        "subtitleFont": "Raleway",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "isRtl": true
+      },
+      "additionalSetColors": [
+        "#28262b",
+        "#232323"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 24,
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/whiteopen-1.gif",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#232323",
+              "font-size": "25px"
+            },
+            ".lead P": {
+              "color": "#232323",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiteopen.gif",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.5
+          },
+          "title": "W<span style=\"font-weight: normal;\"> H</span> I <span style=\"font-weight: normal;\">T</span> E <span style=\"font-weight: normal;\">O </span>P <span style=\"font-weight: normal;\">E</span> N <span style=\"font-weight: normal;\">S</span> P <span style=\"font-weight: normal;\">A</span> C <span style=\"font-weight: normal;\">E</span>\n<br><br><br>",
+          "text": "<p><a href=\"page6.html\">CATALOGUE</a> \n</p><p><a href=\"page7.html\">ABOUT</a></p><p><a href=\"page8.html\">CONTACT \n</a></p><p><a href=\"page9.html\">LANDINGPAD</a></p><p><a href=\"page5.html\">5╟•7+1</a></p><p><br><a href=\"page9.html\">&nbsp;</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "9px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\"><a href=\"page1.html\" class=\"text-black\">Copyright (c) 2019 W H I T E O P E N S P A C E.</a></span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "Page 1CCV",
+        "order": 9
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#cccccc"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://denialism.tk/\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD Z VIRUS</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2",
+          "_styles": {
+            ".btn": {
+              "font-size": "8px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "W  H  I  T  E  O  P  E  N  S  P  A  C  E",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Page 25050",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "W  H  I  T  E  O  P  E  N  S  P  A  C  E",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "W  H  I  T  E  O  P  E  N  S  P  A  C  E",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "W  H  I  T  E  O  P  E  N  S  P  A  C  E",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "S <span style=\"font-weight: normal;\">P</span> A <span style=\"font-weight: normal;\">C</span> E",
+          "text": "WHITE <b>OPEN</b>.",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">W H I T E O P E N S P A C E.</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box1-j"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Page 3",
+        "order": 7
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "EXISTS MEANING",
+          "text": "IN BETWEEN THE LINES.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">W H I T E O P E N S P A C E.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-e",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "25px"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "share",
+        "order": 6
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "SHARE THIS SPACE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<a href=\"index.html\" class=\"text-primary\">W  H  I  T  E  O  P  E  N  S  P  A  C  E</a>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-h"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "CATALOGUE",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#232323",
+              "font-size": "25px"
+            },
+            ".lead P": {
+              "color": "#232323",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiteopen.gif",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.5
+          },
+          "title": "W<span style=\"font-weight: normal;\"> H</span> I <span style=\"font-weight: normal;\">T</span> E <span style=\"font-weight: normal;\">O </span>P <span style=\"font-weight: normal;\">E</span> N <span style=\"font-weight: normal;\">S</span> P <span style=\"font-weight: normal;\">A</span> C <span style=\"font-weight: normal;\">E</span>\n<br><br><br>",
+          "text": "<p><b><u>CATALOGUE</u></b></p><p> \n</p><p><b>--</b></p><p><b>www.yourlocaltradesman.tk</b></p><p><b>denialism.tk</b></p><p><b>whiteopenspace.tk</b></p><p><b>--</b></p><p><br></p><p><a href=\"page7.html\">ABOUT</a></p><p><a href=\"page8.html\">CONTACT</a> \n</p><p><a href=\"page9.html\">LANDINGPAD&nbsp;</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "9px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">Copyright (c) 2019 W H I T E <a href=\"page1.html\" class=\"text-primary\">O</a> P E N S P A C E.</span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "ABOUT",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#232323",
+              "font-size": "25px"
+            },
+            ".lead P": {
+              "color": "#232323",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiteopen.gif",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.5
+          },
+          "title": "W<span style=\"font-weight: normal;\"> H</span> I <span style=\"font-weight: normal;\">T</span> E <span style=\"font-weight: normal;\">O </span>P <span style=\"font-weight: normal;\">E</span> N <span style=\"font-weight: normal;\">S</span> P <span style=\"font-weight: normal;\">A</span> C <span style=\"font-weight: normal;\">E</span>\n<br><br><br>",
+          "text": "<p><a href=\"page6.html\">CATALOGUE</a> \n</p><p><b><u>ABOUT</u></b></p><p><b>--</b></p><p><b>WHITEOPENSPACE supplies bespoke futurism and design solutions&nbsp;for small business, subatomic events, and specialist crypt0-art functions</b></p><p><b>--</b></p><p><a href=\"page8.html\">CONTACT</a> \n</p><p><a href=\"page9.html\">LANDINGPAD&nbsp;</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "9px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">Copyright (c) 2019 W H I T E <a href=\"page1.html\" class=\"text-primary\">O</a> P E N S P A C E.</span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "CONTACT",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#232323",
+              "font-size": "25px"
+            },
+            ".lead P": {
+              "color": "#232323",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiteopen.gif",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.5
+          },
+          "title": "W<span style=\"font-weight: normal;\"> H</span> I <span style=\"font-weight: normal;\">T</span> E <span style=\"font-weight: normal;\">O </span>P <span style=\"font-weight: normal;\">E</span> N <span style=\"font-weight: normal;\">S</span> P <span style=\"font-weight: normal;\">A</span> C <span style=\"font-weight: normal;\">E</span>\n<br><br><br>",
+          "text": "<p><a href=\"page6.html\">CATALOGUE</a> \n</p><p><a href=\"page7.html\">ABOUT</a></p><p><b><u>CONTACT \n</u></b></p><p><b>--</b></p><p><b>whiteopenspace@protonmail.com</b></p><p><b>--</b></p><p><a href=\"page9.html\">LANDINGPAD&nbsp;</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "9px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">Copyright (c) 2019 W H I T E <a href=\"page1.html\" class=\"text-primary\">O</a> P E N S P A C E.</span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "title": "LANDINGPAD",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#232323",
+              "font-size": "25px"
+            },
+            ".lead P": {
+              "color": "#232323",
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whiteopen.gif",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.5
+          },
+          "title": "W<span style=\"font-weight: normal;\"> H</span> I <span style=\"font-weight: normal;\">T</span> E <span style=\"font-weight: normal;\">O </span>P <span style=\"font-weight: normal;\">E</span> N <span style=\"font-weight: normal;\">S</span> P <span style=\"font-weight: normal;\">A</span> C <span style=\"font-weight: normal;\">E</span>\n<br><br><br>",
+          "text": "<p><a href=\"page6.html\">CATALOGUE</a> \n</p><p><a href=\"page7.html\">ABOUT</a></p><p><a href=\"page8.html\">CONTACT</a> \n</p><p><b><u>LANDINGPAD</u></b></p><p><b>--</b></p><p><a href=\"page4.html\">share</a></p><p><a href=\"page2.html\">xamplezone</a></p><p><b>--</b></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "9px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\"><a href=\"page3.html\" class=\"text-black\">Copyright (c) 2019 W H I T E O P E N S P A C E.</a></span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u"
+        }
+      ]
+    }
+  }
+}
