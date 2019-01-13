@@ -412,25 +412,6 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
-#msg-box8-m .mbr-section-title,
-#msg-box8-m p {
-  color: #fff;
-}
-#msg-box8-m .mbr-section-title {
-  color: #232323;
-  font-size: 25px;
-}
-#msg-box8-m .lead P {
-  color: #232323;
-  font-size: 17px;
-}
-#header3-c .mbr-section-title,
-#header3-c .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-c .mbr-section-title {
-  font-size: 9px;
-}
 #buttons1-2 .btn {
   font-size: 8px;
 }
@@ -480,6 +461,9 @@ h6,
   color: #232323;
   font-size: 17px;
 }
+#msg-box8-n .mbr-section-title SPAN {
+  font-size: 21px;
+}
 #header3-o .mbr-section-title,
 #header3-o .mbr-section-subtitle {
   text-align: center;
@@ -498,6 +482,9 @@ h6,
 #msg-box8-p .lead P {
   color: #232323;
   font-size: 17px;
+}
+#msg-box8-p .mbr-section-title SPAN {
+  font-size: 21px;
 }
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {
@@ -518,6 +505,9 @@ h6,
   color: #232323;
   font-size: 17px;
 }
+#msg-box8-r .mbr-section-title SPAN {
+  font-size: 21px;
+}
 #header3-s .mbr-section-title,
 #header3-s .mbr-section-subtitle {
   text-align: center;
@@ -537,10 +527,35 @@ h6,
   color: #232323;
   font-size: 17px;
 }
+#msg-box8-t .mbr-section-title SPAN {
+  font-size: 21px;
+}
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
   text-align: center;
 }
 #header3-u .mbr-section-title {
+  font-size: 9px;
+}
+#msg-box8-m .mbr-section-title,
+#msg-box8-m p {
+  color: #fff;
+}
+#msg-box8-m .mbr-section-title {
+  color: #232323;
+  font-size: 21px;
+}
+#msg-box8-m .lead P {
+  color: #232323;
+  font-size: 17px;
+}
+#msg-box8-m .mbr-section-title SPAN {
+  font-size: 25px;
+}
+#header3-c .mbr-section-title,
+#header3-c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-c .mbr-section-title {
   font-size: 9px;
 }
